@@ -1,0 +1,28 @@
+{
+  "streams": [
+    {
+      "title": "fafd",
+      "description": "this is a description",
+      "userId": "100517619537693623098",
+      "id": 8
+    },
+    {
+      "title": "new stream fort block",
+      "description": "PROGRAMMATIC DESCRI{TIONFSf",
+      "userId": "100517619537693623098",
+      "id": 9
+    },
+    {
+      "title": "This is a new stream",
+      "description": "this is the new stream",
+      "userId": "100517619537693623098",
+      "id": 10
+    },
+    {
+      "title": "blah blah blah running out your mouth with a blak blak fal",
+      "description": "this is a new stream",
+      "userId": "100517619537693623098",
+      "id": 11
+    }
+  ]
+}
