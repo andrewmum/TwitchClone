@@ -1,2 +1,2 @@
 # TwitchClone
- React / Redux project
+ React / Redux project in progress
